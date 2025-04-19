@@ -60,7 +60,7 @@
 <br/>
 <br/>
 
-📊 Estatísticas
+📊 <strong>Estatísticas</strong>
 <div>
 <p>
   <img 
