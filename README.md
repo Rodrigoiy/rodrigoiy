@@ -2,7 +2,7 @@
 
 • Atualmente aluno da Universidade de Mogi das Cruzes <br>
 • Estudante de Análise e Desenvolvimento de Sistemas 3/4 <br>
-• Estudando para ser um programador full stack <br>
+• Estudando desenvolvimento Web <br>
 
 ---
 <br>
