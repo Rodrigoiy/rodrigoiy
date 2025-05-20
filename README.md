@@ -2,7 +2,8 @@
 
 • Atualmente aluno da Universidade de Mogi das Cruzes <br>
 • Estudante de Análise e Desenvolvimento de Sistemas 3/4 <br>
-• Estudando desenvolvimento Web <br>
+• Foco em desenvolvimento Web <br>
+• Frameworks: Laravel, VueJs, Tailwind
 
 ---
 <br>
