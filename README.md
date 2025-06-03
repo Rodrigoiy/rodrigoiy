@@ -1,9 +1,18 @@
 <h1>Olá! meu nome é Rodrigo Issamu</h1>
 
-• Atualmente aluno da Universidade de Mogi das Cruzes <br>
-• Estudante de Análise e Desenvolvimento de Sistemas 3/4 <br>
-• Foco em desenvolvimento Web <br>
-• Frameworks: Laravel, VueJs, Tailwind
+• Aluno da Universidade de Mogi das Cruzes
+<br>
+• Cursando Análise e Desenvolvimento de Sistemas – 3º semestre
+<br>
+• Focado em Desenvolvimento Web com tecnologias modernas
+<br>
+• Desenvolvedor Full-Stack, com experiência em:
+<br>
+🔹Back-end: PHP com Laravel
+<br>
+🔹Front-end: HTML, Tailwind CSS, JavaScript
+<br>
+🔹Banco de dados: MySQL
 
 ---
 <br>
