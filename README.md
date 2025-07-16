@@ -4,7 +4,7 @@
 <br>
 • Cursando Análise e Desenvolvimento de Sistemas – 3º semestre
 <br>
-• Focado em Desenvolvimento Web com tecnologias modernas
+• Focado em Desenvolvimento Web
 <br>
 • Desenvolvedor Full-Stack, com experiência em:
 <br>
