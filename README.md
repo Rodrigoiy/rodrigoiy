@@ -2,7 +2,7 @@
 
 • Aluno da Universidade de Mogi das Cruzes
 <br>
-• Cursando Análise e Desenvolvimento de Sistemas – 3º semestre
+• Cursando Análise e Desenvolvimento de Sistemas – 4º semestre
 <br>
 • Focado em Desenvolvimento Web
 <br>
